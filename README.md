@@ -7,3 +7,5 @@ to create new silicon for the interface? Would a microcontroller of sufficent sp
 
 
 [Has a few resources for FPGA.](<https://digilent.com/blog/can-we-do-better-than-verilog-and-vhdl-for-fpgas/> "FPGA tools") The title is sort of click-baity
+
+[PAL vs CPDL vs FPGA](<https://digilent.com/blog/pal-vs-cpld-vs-fpga/> "Types of programmeable logic devices") This came up in the block diagram for a network switch
